@@ -95,22 +95,21 @@
 
 ---
 
-<p align="center" id="randomQuote" style="font-size: 20px; font-weight: bold; color: #ff4500;"></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400px" />
+</p>
 
-<script>
-  const quotes = [
-    "🚀 The best way to predict the future is to build it!",
-    "💡 Creativity is intelligence having fun!",
-    "🖥️ Keep coding, keep growing!",
-    "🎯 Every expert was once a beginner!",
-    "🔥 Push your limits, break the barriers!"
-  ];
+---
 
-  function changeQuote() {
-    document.getElementById("randomQuote").innerText = quotes[Math.floor(Math.random() * quotes.length)];
-  }
+## 🚀 Keep Exploring & Building!  
 
-  setInterval(changeQuote, 3000);
-  changeQuote();
-</script>
+### 🔥 *The best way to predict the future is to build it!*  
+
+> **💡 Creativity is intelligence having fun.**  
+> **🖥️ Keep coding, keep growing.**  
+> **🎯 Every expert was once a beginner.**  
+> **🔥 Push your limits, break the barriers!**
+>
+> ---
+>
 
