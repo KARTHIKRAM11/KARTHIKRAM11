@@ -21,6 +21,7 @@
 <p align="center"><b>Profile Views</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/karthikram11/count.svg" alt="visitor badge"/></p>
 <br/>
+
 ---
 
 ### 🎭 Have Some Fun!
@@ -30,7 +31,6 @@
     for Natural Stupidity." 🤖😂
   </div>
 </p>
-
 
 ---
 
@@ -45,12 +45,11 @@
   </a>
 </p>
 
-
 ---
 
 ### 🌐 **Connect with me:** 🎉
 <p align="center">
-  <a href="https://linkedin.com/in/karthikram" target="blank">
+  <a href="https://www.linkedin.com/in/karthik-ram-539657308/" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:karthikbusi2005@gmail.com" target="blank">
@@ -64,7 +63,6 @@
 ---
 
 ### 🎨 **Languages & Tools:**
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,mongodb,vscode,github,git&theme=dark" />
 </p>
@@ -88,7 +86,6 @@
 </p>
 <p align="center"><em>Whether it's code, creativity, or connections—keep growing! 🚀</em></p>
 
-
 ---
 
 <p align="center">
@@ -105,11 +102,3 @@
 > **🖥️ Keep coding, keep growing.**  
 > **🎯 Every expert was once a beginner.**  
 > **🔥 Push your limits, break the barriers!**
->
-> ---
->
-
-
-
-
-
